@@ -1,1 +1,3 @@
-Tid
+{
+"admin": "MTIRZ-YXKRT-ZEYGN-UWJMK"
+}
