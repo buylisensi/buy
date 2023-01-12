@@ -1,4 +1,4 @@
 {
-"admin": "MTIRZ-YXKRT-ZEYGN-UWJMK"
+"admin": "MTIRZ-YXKRT-ZEYGN-UWJMK",
 "Gino": "LHEZL-RPKJG-IPPOR-YWXGV"
 }
